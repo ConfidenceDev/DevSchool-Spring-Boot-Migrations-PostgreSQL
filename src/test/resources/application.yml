@@ -1,0 +1,14 @@
+app:
+  datasource:
+    main:
+      driver-class-name: org.h2.Driver
+      jdbc-url: jdbc:h2://mem:db;DB_CLOSE_DELAY=-1
+      username: sa
+      password: "sa"
+      ddl-auto: create-drop
+      pool-size: 30
+
+server:
+  error:
+    include-binding-errors: always
+    include-message: always
