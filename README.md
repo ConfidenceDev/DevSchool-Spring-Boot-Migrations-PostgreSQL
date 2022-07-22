@@ -1,5 +1,5 @@
 # DevSchool-Spring-Boot-Migrations-PostgreSQL
- Schooling API with Flyway Migrations and JDBC implementations
+ Schooling API with Flyway Migrations and JDBC implementations running with a PostgreSQL Database
  
 # How to Use
 
